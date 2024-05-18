@@ -88,11 +88,11 @@ contract Degen {
 
     function buyGun() public returns (bool) {
         require(!ownsGun[msg.sender], "you already have a gun");
-        require(balances[msg.sender] >= 5000, "you don't have enough DEGEN to purchase a gun");
-        balances[msg.sender] -= 5000;
-        totalSupply -= 5000;
+        require(balances[msg.sender] >= 500, "you don't have enough DEGEN to purchase a gun");
+        balances[msg.sender] -= 500;
+        totalSupply -= 500;
         ownsGun[msg.sender] = true;
-        emit Transfer(msg.sender, address(0), 5000);
+        emit Transfer(msg.sender, address(0), 500);
         return true;
     }
 
