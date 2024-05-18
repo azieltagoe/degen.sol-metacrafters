@@ -11,3 +11,7 @@ Here's a breakdown of the contract's functions:
 7. mint: Creates new tokens and assigns them to a specified address (only callable by the contract owner).
 8. buyGun: Allows the caller to purchase a "gun" by spending 500 DEGEN tokens.
 9. reload: Allows the caller to reload ammo by spending 100 DEGEN tokens (only if they own a gun and have enough tokens).
+
+
+Contract deployed on Avalanche Fuji testnet
+Contract address 0xbda78367c3dad9d110f1512a76ce4e3cd3c3a5ef
