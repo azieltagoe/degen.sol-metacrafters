@@ -1,4 +1,4 @@
-This is a smart contract written in Solidity, the programming language used for Ethereum smart contracts. It defines a token called "DEGEN" (symbol "DGN") with a maximum total supply of 100,000. The contract includes standard ERC20 functions for transferring, approving, and burning tokens, as well as additional functions for minting new tokens, buying a "gun" (which requires 500 DEGEN tokens), and reloading ammo (which requires 100 DEGEN tokens).
+This is a smart contract written in Solidity. It defines a token called "DEGEN" (symbol "DGN") with a maximum total supply of 100,000. The contract includes standard ERC20 functions for transferring, approving, and burning tokens, as well as additional functions for minting new tokens, buying a "gun" (which requires 500 DEGEN tokens), and reloading ammo (which requires 100 DEGEN tokens).
 
 Here's a breakdown of the contract's functions:
 
