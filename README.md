@@ -12,4 +12,4 @@ Degen is an ERC20 token deployed on the avalanche fuji testnet. It contains func
 
 
 Contract deployed on Avalanche Fuji testnet
-Contract address 0xbda78367c3dad9d110f1512a76ce4e3cd3c3a5ef
+Contract address 0x4107240219fa4d1E1bF4bf155612233BCA8643B1
