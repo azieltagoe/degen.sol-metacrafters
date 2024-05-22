@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
   
 contract Degen {
 
-    string public name = "DEGEN";
+    string public name = "Degen";
     string public symbol = "DGN";
     uint8 public decimals = 0;
 
